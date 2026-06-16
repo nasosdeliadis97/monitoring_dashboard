@@ -463,3 +463,9 @@ Docker
 ## License
 
 MIT
+
+
+## Live Demo
+
+- Frontend: https://monitoring-dashboard-frontend-h2pkfewx9-nasosdeliadis98.vercel.app/dashboard
+- Backend API: https://monitoring-dashboard-kb54.onrender.com
