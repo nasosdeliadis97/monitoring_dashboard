@@ -1,0 +1,25 @@
+# dependencies
+node_modules
+
+# builds
+dist
+.next
+generated
+
+# env files
+.env
+.env.local
+
+# local/test files
+login.json
+created-monitor.json
+broken-monitor.json
+
+# system
+.DS_Store
+
+# logs
+*.log
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
